@@ -39,6 +39,8 @@ import ij.IJ;
  * implying that a straight passover is more likely than two overlapping turns).
  *
  * @author Mark Hiner <hinerm@gmail.com>
+ *
+ * AP edit test
  */
 public class SlopeOverlapResolver extends AbstractOverlapResolver {
 
